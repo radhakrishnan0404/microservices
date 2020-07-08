@@ -1,5 +1,5 @@
 package com.zotrix.entities;
 
-public class AKSweetsEntities {
+public class AKSUserEntities {
 
 }
